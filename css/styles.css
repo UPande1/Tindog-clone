@@ -1,0 +1,97 @@
+#title {
+  background-color: #ff4c68;
+
+}
+.heading {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3em;
+  line-height: 1.5;
+  color: white;
+  padding: 0 0 2.5rem;
+}
+
+.container-fluid {
+  padding: 3% 10% 9%;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5em;
+  padding-bottom:3.5rem;
+}
+
+.rotation {
+  transform: rotate(25deg);
+  width: 5 0%;
+  position:absolute;
+  z-index: 0;
+  right:25%;
+}
+#features {
+  position: relative;
+  z-index: 1;
+  background-color: #fff;
+}
+.d-btn {
+  margin: 3% 5% 5% 0;
+}
+.title {
+  padding-left: 0;
+}
+
+.icon-color {
+  color: #ff4c68;
+  align-items: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 3.5rem;
+
+}
+
+.features-dog {
+  padding: 5% 5% 5% 0;
+  text-align: center;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+.icon-color:hover {
+  color: grey;
+}
+
+#testimonials {
+  background-color: #ff4c68;
+
+  color: #fff;
+  text-align: center;
+
+}
+.carousel-item {
+  padding:7% 15%;
+}
+
+.dog-image {
+  width: 150px;
+  border-radius: 100%;
+  margin: 7%;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 3.5rem;
+  font-size: 3rem;
+}
+
+#press {
+  background-color: #ff4c68;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.images {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
